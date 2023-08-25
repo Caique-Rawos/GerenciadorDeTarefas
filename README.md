@@ -1,12 +1,14 @@
-# GerenciadorDeTarefas
+# Gerenciador De Tarefas
 
 Projeto: 
     Sistema de Gerenciamento de Tarefas
 
 Descricao: 
+
     Desenvolver um sistema de gerenciamento de tarefas em Java. O sistema permitira que os usuarios criem, visualizem, atualizem e excluam tarefas.
 
 habilidades:
+
     Programacao orientada a objetos, Manipulacao de interfaces graficas e Gerenciamento de dados.
 
 Recursos:
