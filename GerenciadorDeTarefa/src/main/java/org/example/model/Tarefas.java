@@ -1,16 +1,11 @@
 package org.example.model;
 
-import java.time.Instant;
-import java.time.LocalDate;
-import java.time.LocalDateTime;
-import java.time.ZoneId;
-import java.time.format.DateTimeFormatter;
-
 /**
  *
  * @author Caique Rawos.
  */
-public class Tarefas {
+
+public class Tarefas extends FuncoesGlobais{
 
     private int id;
 
@@ -42,23 +37,6 @@ public class Tarefas {
         this.dataHoraInicio = dataHoraInicio;
         this.dataHoraFim = dataHoraFim;
         this.concluido = concluido;
-    }
-
-    public long dataParaEpoch(LocalDate data){
-        Instant instant = data.atStartOfDay(ZoneId.systemDefault()).toInstant();
-        long epoch = instant.getEpochSecond();
-
-        return epoch;
-    }
-
-    public String epochParaData(long epoch, String format){
-        Instant instant = Instant.ofEpochSecond(epoch);
-        LocalDateTime localDateTime = instant.atZone(ZoneId.systemDefault()).toLocalDateTime();
-
-        DateTimeFormatter formatter = DateTimeFormatter.ofPattern(format);
-        String formattedDateTime = localDateTime.format(formatter);
-
-        return formattedDateTime;
     }
 
     public int getId() {
