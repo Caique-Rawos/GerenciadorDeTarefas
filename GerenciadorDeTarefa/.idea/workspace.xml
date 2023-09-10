@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="def3f004-b1cd-47e6-a459-4b00b66d2fc6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/control/UsuarioControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/DAO/UsuarioDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/FuncoesGlobais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e79502d5-2fef-4062-9b6c-baf176eb5b24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e79502d5-2fef-4062-9b6c-baf176eb5b24.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tarefas.db" beforeDir="false" afterPath="$PROJECT_DIR$/Tarefas.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/control/TarefasControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/control/TarefasControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/model/DAO/TarefasDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/model/DAO/TarefasDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/model/Tarefas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Tarefas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/view/FrmTarefas.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/view/FrmTarefas.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/view/FrmTarefas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/view/FrmTarefas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +98,8 @@
       <workItem from="1693780722759" duration="4327000" />
       <workItem from="1693785089775" duration="15000" />
       <workItem from="1693785204098" duration="1027000" />
+      <workItem from="1694123777392" duration="959000" />
+      <workItem from="1694282508781" duration="1563000" />
     </task>
     <servers />
   </component>
